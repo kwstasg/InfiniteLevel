@@ -37,7 +37,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Debug",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -54,7 +54,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Debug",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -74,7 +74,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Debug",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -91,7 +91,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -108,7 +108,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -128,7 +128,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -145,7 +145,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Development",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -162,7 +162,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Development",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -182,7 +182,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Development",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -199,7 +199,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Test",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -216,7 +216,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Test",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -236,7 +236,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Test",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -253,7 +253,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -270,7 +270,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -290,7 +290,7 @@
 					"InfiniteLevel",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -307,7 +307,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -324,7 +324,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -344,7 +344,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -361,7 +361,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -378,7 +378,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -398,7 +398,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -415,7 +415,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -432,7 +432,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -452,7 +452,7 @@
 					"InfiniteLevelEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -469,7 +469,7 @@
 			{
 				"name": "Launch InfiniteLevel (Debug)",
 				"request": "launch",
-				"program": "C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "InfiniteLevel Win64 Debug Build",
 				"args": [
 				],
@@ -485,7 +485,7 @@
 			{
 				"name": "Launch InfiniteLevel (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "InfiniteLevel Win64 DebugGame Build",
 				"args": [
 				],
@@ -501,7 +501,7 @@
 			{
 				"name": "Launch InfiniteLevel (Development)",
 				"request": "launch",
-				"program": "C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "InfiniteLevel Win64 Development Build",
 				"args": [
 				],
@@ -517,7 +517,7 @@
 			{
 				"name": "Launch InfiniteLevel (Test)",
 				"request": "launch",
-				"program": "C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "InfiniteLevel Win64 Test Build",
 				"args": [
 				],
@@ -533,7 +533,7 @@
 			{
 				"name": "Launch InfiniteLevel (Shipping)",
 				"request": "launch",
-				"program": "C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "InfiniteLevel Win64 Shipping Build",
 				"args": [
 				],
@@ -552,7 +552,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "InfiniteLevelEditor Win64 Debug Build",
 				"args": [
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject"
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -569,7 +569,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "InfiniteLevelEditor Win64 DebugGame Build",
 				"args": [
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject"
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -586,7 +586,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "InfiniteLevelEditor Win64 Development Build",
 				"args": [
-					"C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject"
+					"C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.5",
 				"stopAtEntry": false,
@@ -606,7 +606,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=C:\\Users\\KwstasG\\Documents\\Unreal Projects\\InfiniteLevel\\InfiniteLevel.uproject",
+					"-project=C:\\Users\\KwstasG\\Documents\\Github\\InfiniteLevel\\InfiniteLevel.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
