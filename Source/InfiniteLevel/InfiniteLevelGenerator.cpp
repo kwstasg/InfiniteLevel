@@ -1,12 +1,10 @@
 #include "InfiniteLevelGenerator.h"
 
-// #include "Animation/AnimInstance.h"
 #include "MuCO/CustomizableInstanceLODManagement.h"
 #include "MuCO/CustomizableObject.h"
 #include "MuCO/CustomizableObjectInstanceUsage.h"
 #include "MuCO/CustomizableObjectSystem.h"
 #include "GameFramework/Pawn.h"
-// #include "Components/SkeletalMeshComponent.h"
 #include "Kismet/GameplayStatics.h"
 
 // Sets default values
@@ -198,18 +196,16 @@ void AInfiniteLevelGenerator::Tick(float DeltaTime)
 
 	UCustomizableObjectSystem* System = UCustomizableObjectSystem::GetInstance();
 
-	AActor* PlayerActor = PlayerPawn;
-
 	FVector2f PlayerLocation = FVector2f::Zero();
-	if (PlayerActor)
+	if (PlayerPawn)
 	{
-		FVector Location = PlayerActor->GetActorLocation();
+		FVector Location = PlayerPawn->GetActorLocation();
 		PlayerLocation = FVector2f(Location.X, Location.Y);
 		
 		if (UCustomizableInstanceLODManagement* LODManagement = Cast<UCustomizableInstanceLODManagement>(System->GetInstanceLODManagement()))
 		{
 			LODManagement->ClearViewCenters();
-			LODManagement->AddViewCenter(PlayerActor);
+			LODManagement->AddViewCenter(PlayerPawn);
 		}
 	}
 

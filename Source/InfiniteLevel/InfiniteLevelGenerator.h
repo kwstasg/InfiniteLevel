@@ -4,11 +4,6 @@
 #include "GameFramework/Actor.h"
 #include "InfiniteLevelGenerator.generated.h"
 
-// class UCustomizableObjectInstanceUsage;
-// class UCustomizableObject;
-// class UCustomizableObjectInstance;
-// class UAnimInstance;
-
 USTRUCT()
 struct FRegionScenery
 {
@@ -33,11 +28,8 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Infinite)
 	float UpdateDistance = 5000.0;
 
-	UPROPERTY(EditAnywhere, Category = Infinite)
-	TSubclassOf<AActor> OccluderActor = nullptr;
-
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Infinite)
-	int32 RegionWidthScenery = 5;
+	int32 RegionWidthScenery = 8;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Infinite)
 	FVector2f RegionSize = FVector2f(4000.0f, 4000.0f);
@@ -46,9 +38,12 @@ public:
 	int32 OccludersNum = 1;
 
 	UPROPERTY(EditAnywhere, Category = Infinite)
-	TSubclassOf<AActor> PlaneActor = nullptr;	
+	TSubclassOf<AActor> OccluderActor = nullptr;	
 
 	UPROPERTY(EditAnywhere, Category = Infinite)
+	TSubclassOf<AActor> PlaneActor = nullptr;	
+
+	// UPROPERTY(EditAnywhere, Category = Infinite)
 	TObjectPtr<APawn> PlayerPawn = nullptr;
 
 private:
